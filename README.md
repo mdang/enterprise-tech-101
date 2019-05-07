@@ -16,7 +16,7 @@ Sales Summit 2019
 - Version Control
   - Git
   - GitHub
-- Front-end vs Back-end vs Full-stack
+- Front-end vs Back-end vs Full stack
 - Front-end
   - HTML
   - CSS
