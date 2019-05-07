@@ -63,6 +63,7 @@ Sales Summit 2019
 - AWS
 - Azure
 - Pivotal Cloud Foundry 
+- Physical server -> Virtual Machine -> Kubernetes -> Docker container -> Application
 - Cloud Native
   - Twelve-Factor Applications
 
