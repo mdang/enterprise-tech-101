@@ -22,7 +22,7 @@ Sales Summit 2019
   - Java
     - Spring 
     - Spring Boot
-- Databases
+- Database
   - Relational 
     - SQL
     - Postgres, MySQL, Oracle
