@@ -24,6 +24,7 @@ Sales Summit 2019
     - Angular
 - Back-end
   - Node.js 
+    - Express
   - Java
     - Spring 
     - Spring Boot
