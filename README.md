@@ -5,6 +5,11 @@ Sales Summit 2019
 
 - Explain what we've been seeing 
 
+## Java
+
+- Spring
+- Spring Boot 
+
 ## DevOps
 
 - Overview
@@ -12,8 +17,11 @@ Sales Summit 2019
   - Scrum
   - XP 
 - Test Automation 
+  - Test Driven Development
   - Unit testing
   - Integration testing
+  - Mocks and Stubs
+  - Testing frameworks: Mocha, Jest, jUnit
 - CI/CD
 - Containerization
   - Docker
@@ -30,9 +38,7 @@ Sales Summit 2019
 
 ## Microservices
 
+- Monoliths vs Microservices
 - Pros and cons 
 
-## Java
 
-- Spring
-- Spring Boot 
