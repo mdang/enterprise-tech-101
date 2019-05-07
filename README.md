@@ -11,7 +11,7 @@ Sales Summit 2019
 
 > Keep notes on new training opportunities for your clients as we go along, we'll do a pair and share
 
-## Application Development
+## Building: Application Development
 
 - Front-end vs Back-end vs Full stack
 - Front-end
@@ -36,7 +36,7 @@ Sales Summit 2019
   - NoSQL
     - MongoDB, Redis 
 
-## DevOps
+## Delivering: DevOps
 
 - Overview
 - Agile 
@@ -57,7 +57,7 @@ Sales Summit 2019
   - Kubernetes
 - Logs and Monitoring 
 
-## Cloud Infrastructure
+## Hosting: Cloud Infrastructure
 
 - PaaS vs IaaS
 - AWS
