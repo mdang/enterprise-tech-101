@@ -22,6 +22,12 @@ Sales Summit 2019
   - Java
     - Spring 
     - Spring Boot
+- Databases
+  - Relational 
+    - SQL
+    - Postgres, MySQL, Oracle
+  - NoSQL
+    - MongoDB, Redis 
 
 ## DevOps
 
