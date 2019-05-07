@@ -3,7 +3,8 @@ Sales Summit 2019
 
 ## Overview 
 
-- Explain what we've been seeing 
+- Explain what we've been seeing from Enterprise clients
+- Keep notes on new training opportunities for your clients 
 
 ## Application Development
 
