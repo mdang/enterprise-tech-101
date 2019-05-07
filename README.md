@@ -13,7 +13,7 @@ Sales Summit 2019
 
 ## Building: Application Development
 
-- Front-end vs Back-end vs Full stack
+- Front-end vs Back-end vs Full Stack
 - Front-end
   - HTML
   - CSS
