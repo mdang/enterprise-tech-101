@@ -13,9 +13,6 @@ Sales Summit 2019
 
 ## Application Development
 
-- Version Control
-  - Git
-  - GitHub
 - Front-end vs Back-end vs Full stack
 - Front-end
   - HTML
