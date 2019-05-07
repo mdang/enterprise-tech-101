@@ -7,7 +7,7 @@ Sales Summit 2019
 - Three core areas clients want tech training in: 
   - **Building** solutions (client projects, maintainable, best practices)
   - **Delivering** solutions (delivering value quickly, feedback loops, disaster recovery)
-  - **Hosting** solutions (scalable, performant, secure, maintainable environment)
+  - **Hosting** solutions (scalable, performant, secure)
 
 > Keep notes on new training opportunities for your clients as we go along, we'll do a pair and share
 
