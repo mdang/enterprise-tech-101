@@ -7,6 +7,9 @@ Sales Summit 2019
 
 ## Application Development
 
+- Version Control
+  - Git
+  - GitHub
 - Front-end
   - HTML
   - CSS
