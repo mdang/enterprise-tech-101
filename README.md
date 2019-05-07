@@ -5,10 +5,19 @@ Sales Summit 2019
 
 - Explain what we've been seeing 
 
-## Java
+## Application Development
 
-- Spring
-- Spring Boot 
+- Front-end
+  - HTML
+  - CSS
+  - JavaScript
+    - React
+    - Angular
+- Back-end
+  - Node.js (JavaScript)
+  - Java
+    - Spring 
+    - Spring Boot
 
 ## DevOps
 
