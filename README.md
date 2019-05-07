@@ -4,11 +4,12 @@ Sales Summit 2019
 ## Overview 
 
 - Explain what we've been seeing from Enterprise clients
-- Keep notes on new training opportunities for your clients 
 - Three core areas clients need tech training in: 
   - Developing solutions (maintainable, best practices)
   - Delivering solutions (delivering value quickly, disaster recovery, quick iterations)
   - Hosting solutions (scalable, performant, secure, maintainable environment)
+
+Keep notes on new training opportunities for your clients as we go along
 
 ## Application Development
 
