@@ -60,8 +60,7 @@ Sales Summit 2019
 ## Hosting: Cloud Infrastructure
 
 - PaaS vs IaaS
-- AWS
-- Azure
+- AWS, Azure, Google Cloud
 - Pivotal Cloud Foundry 
 - Cloud Native
   - Twelve-Factor Applications
