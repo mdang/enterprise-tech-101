@@ -28,15 +28,15 @@ Sales Summit 2019
   - Java
     - Spring 
     - Spring Boot
+  - Microservices
+    - Monoliths vs Microservices
+    - Pros and cons
 - Database
   - Relational 
     - SQL
     - Postgres, MySQL, Oracle
   - NoSQL
     - MongoDB, Redis 
-- Microservices
-  - Monoliths vs Microservices
-  - Pros and cons
 
 ## DevOps
 
