@@ -33,6 +33,9 @@ Sales Summit 2019
     - Postgres, MySQL, Oracle
   - NoSQL
     - MongoDB, Redis 
+- Microservices
+  - Monoliths vs Microservices
+  - Pros and Cons
 
 ## DevOps
 
@@ -56,15 +59,11 @@ Sales Summit 2019
 
 ## Cloud Infrastructure
 
+- PaaS vs IaaS
 - AWS
 - Pivotal Cloud Foundry
 - Azure 
 - Cloud Native
 - Twelve-Factor Applications
-
-## Microservices
-
-- Monoliths vs Microservices
-- Pros and cons 
 
 
