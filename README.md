@@ -12,6 +12,8 @@ Sales Summit 2019
   - Scrum
   - XP 
 - Test Automation 
+  - Unit testing
+  - Integration testing
 - CI/CD
 - Containerization
   - Docker
