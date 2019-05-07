@@ -48,8 +48,7 @@ Sales Summit 2019
   - Unit testing
   - Integration testing
   - Testing frameworks
-    - Mocha
-    - Jest
+    - Mocha / Jest
     - jUnit
 - CI/CD
 - Containerization
