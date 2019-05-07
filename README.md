@@ -36,7 +36,7 @@ Sales Summit 2019
     - MongoDB, Redis 
 - Microservices
   - Monoliths vs Microservices
-  - Pros and Cons
+  - Pros and cons
 
 ## DevOps
 
