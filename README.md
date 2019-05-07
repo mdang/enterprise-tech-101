@@ -52,6 +52,8 @@ Sales Summit 2019
     - Mocha / Jest
     - jUnit
 - CI/CD
+  - Jenkins
+  - Azure DevOps
 - Containerization
   - Docker
   - Kubernetes
