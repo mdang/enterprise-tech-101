@@ -53,7 +53,7 @@ Sales Summit 2019
     - jUnit
 - CI/CD
   - Jenkins
-  - Azure DevOps
+  - Azure Pipelines
 - Containerization
   - Docker
   - Kubernetes
