@@ -61,9 +61,9 @@ Sales Summit 2019
 
 - PaaS vs IaaS
 - AWS
-- Pivotal Cloud Foundry
-- Azure 
+- Azure
+- Pivotal Cloud Foundry 
 - Cloud Native
-- Twelve-Factor Applications
+  - Twelve-Factor Applications
 
 
