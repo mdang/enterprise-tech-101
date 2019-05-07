@@ -43,8 +43,10 @@ Sales Summit 2019
   - Test Driven Development
   - Unit testing
   - Integration testing
-  - Mocks and Stubs
-  - Testing frameworks: Mocha, Jest, jUnit
+  - Testing frameworks
+    - Mocha
+    - Jest
+    - jUnit
 - CI/CD
 - Containerization
   - Docker
