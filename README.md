@@ -28,7 +28,6 @@ Sales Summit 2019
   - Node.js 
     - Express
   - Java
-    - Spring 
     - Spring Boot
   - Microservices
     - Monoliths vs Microservices
