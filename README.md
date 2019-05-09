@@ -36,6 +36,8 @@ Sales Summit 2019
   - NoSQL
     - MongoDB, Redis 
 
+> Highlight our core competencies
+
 ## Delivering: DevOps
 
 - Overview
