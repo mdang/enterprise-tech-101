@@ -90,4 +90,4 @@ Sales Summit 2019
 
 **5 min**
 
-Get together in pairs and discuss any potential new ideas you had for reaching out to clients based on what you've heard today. 
+Get together in pairs and discuss any potential new ideas you have for reaching out to clients based on what you've heard today. 
