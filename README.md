@@ -3,7 +3,7 @@ Sales Summit 2019
 
 ## Overview 
 
-** 2 min**
+**2 min**
 
 - What we've been seeing from enterprise clients
 - Three core areas clients need tech training in: 
