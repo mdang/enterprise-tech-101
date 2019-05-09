@@ -39,6 +39,10 @@ Sales Summit 2019
 ## Delivering: DevOps
 
 - Overview
+
+> TVLY experience
+> Air Force experience
+
 - Agile 
   - Scrum
   - XP 
@@ -58,6 +62,8 @@ Sales Summit 2019
 - Logs and Monitoring 
 
 ## Hosting: Cloud Infrastructure
+
+> C1 experience 
 
 - PaaS vs IaaS
 - AWS, Azure, Google Cloud
