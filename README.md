@@ -3,6 +3,8 @@ Sales Summit 2019
 
 ## Overview 
 
+** 2 min**
+
 - What we've been seeing from enterprise clients
 - Three core areas clients need tech training in: 
   - **Building** solutions (client projects, maintainable, best practices)
@@ -12,6 +14,8 @@ Sales Summit 2019
 > Keep notes on new training opportunities for your clients as we go along, we'll do a pair and share
 
 ## Building: Application Development
+
+**8 min**
 
 - Front-end vs Back-end vs Full Stack
 - Front-end
@@ -39,6 +43,8 @@ Sales Summit 2019
 > Highlight our core competencies
 
 ## Delivering: DevOps
+
+**10 min**
 
 - Overview
 
@@ -69,6 +75,8 @@ Sales Summit 2019
 
 ## Hosting: Cloud Infrastructure
 
+**5 min**
+
 > C1 experience 
 
 - PaaS vs IaaS
@@ -78,3 +86,8 @@ Sales Summit 2019
   - Twelve-Factor Applications
 - Physical server -> Virtual machine -> Kubernetes -> Docker container -> Application
 
+## Activity: Pair and Share
+
+**5 min**
+
+Get together in pairs and discuss any potential new ideas you had for reaching out to clients based on what you've heard today. 
