@@ -49,6 +49,9 @@ Sales Summit 2019
 - Agile 
   - Scrum
   - XP 
+  
+> Chart major differences between Scrum and XP
+  
 - Test Automation 
   - Test Driven Development
   - Unit testing
