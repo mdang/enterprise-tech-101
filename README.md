@@ -15,7 +15,7 @@ Sales Summit 2019
 
 > Keep notes on new training opportunities for your clients as we go along, we'll do a pair and share
 
-> **Whiteboard** Divide board into 3, build / deliver / host 
+> **Whiteboard** Divide board into 3 sections, build / deliver / host 
 
 ## Building: Application Development
 
@@ -23,7 +23,7 @@ Sales Summit 2019
 
 > **Slide** Most common technologies requested 
 > 
-> **Whiteboard** Where these technologies lay in the stack and overview of each one 
+> **Whiteboard** Where these technologies are in the big picture and overview of each one 
 
 - Front-end vs Back-end vs Full Stack
 - Front-end
@@ -47,7 +47,7 @@ Sales Summit 2019
   - NoSQL
     - MongoDB, Redis 
 
-> Highlight our core competencies
+> **Whiteboard** Highlight our core competencies
 
 ## Delivering: DevOps
 
