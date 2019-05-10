@@ -41,7 +41,7 @@ Sales Summit 2019
     - Monoliths vs Microservices
     - Pros and cons
     
-> **Whiteboard** Architecture of monolith vs microservices    
+> **Whiteboard** Architecture diagram of monoliths vs microservices    
     
 - Database
   - Relational 
