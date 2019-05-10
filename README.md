@@ -21,9 +21,7 @@ Sales Summit 2019
 
 **8 min**
 
-> **Slide** Most common development skills requested 
-> 
-> **Whiteboard** Where these technologies are in the big picture and overview of each one 
+> **Slide** Most common development skills requested, where the technologies below are in the big picture
 
 - Front-end vs Back-end vs Full Stack
 - Front-end
