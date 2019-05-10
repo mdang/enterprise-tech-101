@@ -61,6 +61,8 @@ Sales Summit 2019
 > 
 > Air Force experience
 
+> **Slide** Agile | Test Automation | CI/CD | Containerization | Logs and Monitoring 
+
 - Agile 
   - Scrum
   - XP 
@@ -86,6 +88,8 @@ Sales Summit 2019
 
 **5 min**
 
+> **Slide** Major cloud providers
+
 > C1 experience 
 
 - PaaS vs IaaS
@@ -93,10 +97,13 @@ Sales Summit 2019
 - Pivotal Cloud Foundry 
 - Cloud Native
   - Twelve-Factor Applications
-- Physical server -> Virtual machine -> Kubernetes -> Docker container -> Application
+
+> **Whiteboard** Physical server -> Virtual machine -> Kubernetes -> Docker container -> Application
 
 ## Activity: Pair and Share
 
 **5 min**
+
+> **Slide** Pair and Share prompt
 
 Get together in pairs and discuss any potential new ideas you have for reaching out to clients based on what you've heard today. 
