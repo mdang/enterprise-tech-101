@@ -60,7 +60,7 @@ Sales Summit 2019
 > 
 > Air Force experience
 
-> **Slide** Agile | Test Automation | CI/CD | Containerization | Logs and Monitoring 
+> **Slide** Agile | Test Automation | Containerization | CI/CD | Logs and Monitoring 
 
 - Agile 
   - Scrum
@@ -75,17 +75,18 @@ Sales Summit 2019
   - Testing frameworks
     - Mocha / Jest
     - jUnit
-- CI/CD
-  - Jenkins
-  - Azure Pipelines
-  
-> **Whiteboard** Example of Continuous Deployment from check-in to production
-  
+
 - Containerization
   - Docker
   - Kubernetes
   
-> **Whiteboard** Docker container with app, Kubernetes deploying multiple Docker containers 
+> **Whiteboard** Docker container with app, Kubernetes deploying multiple Docker containers
+    
+- CI/CD
+  - Jenkins
+  - Azure Pipelines
+  
+> **Whiteboard** Example of Continuous Deployment from check-in to production 
   
 - Logs and Monitoring 
 
