@@ -5,7 +5,7 @@ Sales Summit 2019
 
 **2 min** 
 
-> **Slide** Build / Deliver / Host
+> **Slide** Build | Deliver | Host
 
 - What we've been seeing from enterprise clients
 - Three core areas clients desire tech training in: 
