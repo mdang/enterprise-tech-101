@@ -48,13 +48,11 @@ Sales Summit 2019
   - NoSQL
     - MongoDB, Redis 
 
-> **Whiteboard** Highlight our core competencies
-
 ## Delivering: DevOps
 
 **10 min**
 
-> **Slide** DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+> **Slide** DevOps is the combination of cultural philosophies, practices, infrastructure management processes, and tools that increases an organization’s ability to deliver applications and services at high velocity.
 
 - Overview
 
@@ -68,7 +66,7 @@ Sales Summit 2019
   - Scrum
   - XP 
   
-> Chart major differences between Scrum and XP
+> **Slide** Chart major differences between Scrum and XP
   
 - Test Automation 
   - Test Driven Development
@@ -80,9 +78,15 @@ Sales Summit 2019
 - CI/CD
   - Jenkins
   - Azure Pipelines
+  
+> **Whiteboard** Example of Continuous Deployment from check-in to production
+  
 - Containerization
   - Docker
   - Kubernetes
+  
+> **Whiteboard** Docker container with app, Kubernetes deploying multiple Docker containers 
+  
 - Logs and Monitoring 
 
 ## Hosting: Cloud Infrastructure
