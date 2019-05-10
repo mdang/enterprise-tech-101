@@ -3,7 +3,9 @@ Sales Summit 2019
 
 ## Overview 
 
-**2 min**
+**2 min** 
+
+> **Slide** Build / Deliver / Host
 
 - What we've been seeing from enterprise clients
 - Three core areas clients desire tech training in: 
@@ -16,6 +18,10 @@ Sales Summit 2019
 ## Building: Application Development
 
 **8 min**
+
+> **Slide** Most common technologies requested 
+> 
+> **Whiteboard** Where these technologies lay in the stack and overview of each one 
 
 - Front-end vs Back-end vs Full Stack
 - Front-end
