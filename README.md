@@ -53,6 +53,8 @@ Sales Summit 2019
 
 **10 min**
 
+> **Slide** What does DevOps enable? Speed, accurracy, etc
+
 - Overview
 
 > TVLY experience
