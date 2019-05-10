@@ -15,6 +15,8 @@ Sales Summit 2019
 
 > Keep notes on new training opportunities for your clients as we go along, we'll do a pair and share
 
+> **Whiteboard** Divide board into 3, build / deliver / host 
+
 ## Building: Application Development
 
 **8 min**
